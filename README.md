@@ -1,4 +1,4 @@
-# BMW
+8# BMW
 # 🔴🏎️ BMW M-Series Inspired Portfolio | Performance Meets Design 🚀
 
 Welcome to my **BMW-Inspired Portfolio Website** — a high-performance frontend project designed around the bold styling, precision, and racing spirit of BMW's iconic performance vehicles.
@@ -21,7 +21,7 @@ The website reflects the feeling of stepping into a modern BMW performance machi
 
 ---
 
-## 🎨 Design Philosophy
+## 🎨 Design Philosophy🪐🎀
 
 Inspired by the aggressive styling and premium aesthetics of BMW performance cars:
 
