@@ -77,7 +77,7 @@ Every section is designed to feel fast, responsive, and engineered with precisio
 
 ---
 
-## 🎯 Development Goals
+## 🎯 Development Goals👑
 
 This project was built to:
 
