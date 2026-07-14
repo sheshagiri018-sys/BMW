@@ -38,7 +38,7 @@ Every section is designed to feel fast, responsive, and engineered with precisio
 
 ---
 
-## 🚗 Key Features
+## 🚗 Key Features🪄✨
 
 ### 🏠 Hero Experience
 
@@ -66,7 +66,7 @@ Every section is designed to feel fast, responsive, and engineered with precisio
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Technology Stack!!!
 
 | Technology      | Purpose              |
 | --------------- | -------------------- |
